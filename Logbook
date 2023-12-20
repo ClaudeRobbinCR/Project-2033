@@ -1,4 +1,4 @@
---------------------------
+Jun--------------------------
 Day Zero
 15th December
 Learned Blender for an hour using trial and error method. 
@@ -84,3 +84,20 @@ I'm going to commplete the Undertaking though. It's a well-written piece of work
 4. I spent an hour playing chess, and an hour in personality development. P. A. W. S ----> Professional, Academic, i forgot, and i forgotヽ(￣ω￣(￣ω￣〃)ゝ
 ---------------------------------
 20th December
+Wow. Didn't know you could edit this from android. 
+Wanted to update before I forget what I did for the day. 
+1. Morning nothing. 
+2. I played a lot of free fire. Game's dumb but my friend loves it. 
+3. ROS period came and we learned about eric burger, willow garage and the acquisition? Sort of. Then the takeover by OSRF.
+4. Then I booted up my lappy. 
+5. Already installed docker. 
+6. Pulled an osrf image (or whatever it's called) from the OSRF official docker page for Noetic desktop full. 
+7. Ran it using *docker run it*
+8. YOU HAVE TO SOURCE FILES AGAIN WHEN YOU OPEN NEW BASH TERMINALS USING *EXEC*. DUH.
+9. Rosrun rospy
+10. Ran the listener tutorial. 
+11. Opened a new bash using the *EXEC* command
+12. Docker ps for history
+13. Then in the new terminal open new bash, source stuff then run rospy tutorial listener. 
+14. It was working and it just blew my mind. 
+*Till evening. I'll update at 10pm what i did with the remaining time*
