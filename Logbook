@@ -110,3 +110,10 @@ Learned about materials too. And collision, and meshes.
 Terrible fever. Reports of a new variant in the news. Gonna sleep now. 
 ---------------------------------
 22nd December
+Yesterday (I forgot to update this yesterday), I learned more about docker. I wanted to run an llm model in my docker ubuntu, but couldn't do so, as my gpu was not detected. 
+I spent the day trying to find a way around this. It was really confusing, as NVIDIA had discontinued the existing docker solution nd had moved on. 
+I learned how to save a container as a new one, but I did not learn how to update it as if. I have to learn today how to do it. 
+---------------------------------
+23rd December
+Been cleaning my house since the afternoon. Didn't learn much. But I have started Right now. 
+Aiming to create an android calculator app. Will update. 
